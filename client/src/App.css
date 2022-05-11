@@ -1,0 +1,11 @@
+.adminnav {
+    width:200px;
+    height: 100vh;
+  background-color: rgb(97, 148, 224);
+  font-size: 14pt;
+  font-weight: 600;
+}
+
+.admin-link {
+  color: black !important;
+}
